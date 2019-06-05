@@ -1,6 +1,8 @@
 # Digits converter
 
-Unit test
+![build](https://img.shields.io/travis/henryhuang/digits-convertor.svg?style=popout-square)
+
+## Unit tests
 
 - [DigitsConverter.java](src/test/java/io/github/henryhuang/DigitsConverterTest.java)
 
